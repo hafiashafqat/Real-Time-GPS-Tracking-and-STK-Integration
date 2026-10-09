@@ -15,7 +15,7 @@ fprintf('=================================================\n\n');
 % =========================================================================
 %% CONFIGURATION & ENVIRONMENT PRESET
 % =========================================================================
-PHONE_IP    = '192.168.5.132';   % Set to your phone IP
+PHONE_IP    = '192.###.#.###';   % Set to your phone IP
 TCP_PORT    = 10110;             % NavCast TCP Server Port
 VEHICLE_NAME= 'GPS_Van';
 
